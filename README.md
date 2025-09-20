@@ -89,3 +89,7 @@ By consolidating diverse datasets into interactive dashboards, this project empo
   3) Health Stats Dashboard <p align="center">
   <img src="https://github.com/vermaaditya01/Power-BI-Portfolio/blob/main/Project%20Snapshots/Health%20Stats.png" />
 </p>
+
+  4) Data Modeling <p align = "center">
+  <img src = "https://github.com/vermaaditya01/Power-BI-Portfolio/blob/main/Project%20Snapshots/Data%20Modeling%20Design.png" />
+</p>
