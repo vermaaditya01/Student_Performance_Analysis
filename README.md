@@ -2,21 +2,42 @@
 ## EduMind Metrics ~ Student Performance & Analysis Tracker
 A comprehensive data visualization project developed to uncover how academics, health & lifestyle factors shape student success, offering a holistic view of scores, attendance, habits & well-being across different courses and universities.
 
-### 1) Objective
-EduMind Metrics is an engaging Power BI project designed to analyze student data from multiple universities and courses. It focuses on uncovering academic growth trends, the impact of lifestyle habits on performance, and the role of health and motivation in overall academic success. Built for educators, policymakers, counselors & researchers, this tool helps uncover academic trends, spotlight at-risk students & drive data-informed strategies to boost learning and student well-being.
+  **Explore Full Project:**  [Student Performance & Analysis Tracker](https://app.powerbi.com/view?r=eyJrIjoiYjUzZTk1MWQtYzcxNS00NGU1LWExZTQtNDU1MzVlNWJmODgwIiwidCI6IjY3ZmM3MmU2LTIxMjctNDY2OC04YmQ3LTAwMGJkYzY5MTg1MSJ9)
 
-### 2) Tech Stack
+### 1) Screenshots (Preview)
+  a) Top Achievers Dashboard <p align="center">
+  <img src="https://github.com/vermaaditya01/Power-BI-Portfolio/blob/main/Project%20Snapshots/Top%20Achievers.png" />
+</p>
+
+  b) Student Metrics Dashboard <p align="center">
+  <img src="https://github.com/vermaaditya01/Power-BI-Portfolio/blob/main/Project%20Snapshots/Student%20Metrices.png" />
+</p>
+
+  c) Health Stats Dashboard <p align="center">
+  <img src="https://github.com/vermaaditya01/Power-BI-Portfolio/blob/main/Project%20Snapshots/Health%20Stats.png" />
+</p>
+
+  d) Data Modeling <p align = "center">
+  <img src = "https://github.com/vermaaditya01/Power-BI-Portfolio/blob/main/Project%20Snapshots/Data%20Modeling%20Design.png" />
+</p>
+
+### 2) Objectives
+  ✅ To analyze multi-university student data to uncover academic trends, identify at-risk students. 
+  
+  ✅ Provide actionable insights for improving learning outcomes and student well-being.
+
+### 3) Tech Stack
 Key tools and technologies that powered this project include:
-  - 🟩 **MS Excel:** Used for storing raw student data including academic, demographic, and health attributes.
+  - 🟩 **MS Excel:** For storing raw student data including academic, demographic, and health attributes.
   - 🧹 **Power Query Editor:** Data Cleaning & Transformation to refine data quality for furthur analysis.
   - 📊 **Power BI Desktop:** Primary visualization platform used to create interactive dashboards.
   - 🔗 **Data Modeling:** Connects tables like student_Demographics, disorders, student_scores to enable interactive filtering and powerful aggregations.
-  - 🧠 **DAX (Data Analysis Expression):** Used for calculated measures, KPIs, dynamic visuals, and conditional logic in dashboards.
+  - 🧠 **DAX (Data Analysis Expression):** For calculated measures, KPIs, dynamic visuals, and conditional logic in dashboards.
 
-### 3) Dataset
+### 4) Dataset
 - The dataset provides a comprehensive view of 10,000 students spanning 3 types of institutions & 5 different Universities offering overall 40 distinct courses. It combines academic, lifestyle, demographic & health-related attributes, designed to analyze how different factors influence student academic performance and well-being.
 
-### 4) Business problem
+### 5) Business problem
 Educational institutions face increasing challenges in tracking student performance holistically. Traditional academic analysis often ignores critical lifestyle and health factors, leading to an incomplete picture of student success.
 Without a centralized analytical view, it becomes difficult to:
   - Identify top-performing and at-risk students.
@@ -24,7 +45,7 @@ Without a centralized analytical view, it becomes difficult to:
   - Recognize the role of disorders such as stress, anxiety, or depression on grades.
   - Optimize student engagement strategies for both academic and personal well-being.
 
-### 5) Key Features
+### 6) Key Features
 Following features have designed to make the dashboard interactive & insightful:
 
 **a) Top Achievers dashboard**
@@ -67,7 +88,7 @@ Following features have designed to make the dashboard interactive & insightful:
 
   - **Bar Chart (Affected Students by Motivation Levels):** Displays the proportion of students with high, moderate & low motivation levels.
 
-### 6) Use Case
+### 7) Use Case
 By consolidating diverse datasets into interactive dashboards, this project empowers stakeholders to make data-driven decisions that enhance desicion making process for:
   - **Universities & Colleges →** Track academic success and improve student support systems.
 
@@ -76,20 +97,3 @@ By consolidating diverse datasets into interactive dashboards, this project empo
   - **Policy Makers →** Formulate strategies to improve student well-being and academic outcomes.
 
   - **Researchers →** Study correlations between lifestyle, health, and academic performance.
-
-### 7) Screenshots (Preview)
-  1) Top Achievers Dashboard <p align="center">
-  <img src="https://github.com/vermaaditya01/Power-BI-Portfolio/blob/main/Project%20Snapshots/Top%20Achievers.png" />
-</p>
-
-  2) Student Metrics Dashboard <p align="center">
-  <img src="https://github.com/vermaaditya01/Power-BI-Portfolio/blob/main/Project%20Snapshots/Student%20Metrices.png" />
-</p>
-
-  3) Health Stats Dashboard <p align="center">
-  <img src="https://github.com/vermaaditya01/Power-BI-Portfolio/blob/main/Project%20Snapshots/Health%20Stats.png" />
-</p>
-
-  4) Data Modeling <p align = "center">
-  <img src = "https://github.com/vermaaditya01/Power-BI-Portfolio/blob/main/Project%20Snapshots/Data%20Modeling%20Design.png" />
-</p>
