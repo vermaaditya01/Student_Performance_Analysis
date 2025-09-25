@@ -2,7 +2,7 @@
 ## EduMind Metrics ~ Student Performance & Analysis Tracker
 A comprehensive data visualization project developed to uncover how academics, health & lifestyle factors shape student success, offering a holistic view of scores, attendance, habits & well-being across different courses and universities.
 
-  **Explore Full Project:**  [Student Performance & Analysis Tracker](https://app.powerbi.com/view?r=eyJrIjoiYjUzZTk1MWQtYzcxNS00NGU1LWExZTQtNDU1MzVlNWJmODgwIiwidCI6IjY3ZmM3MmU2LTIxMjctNDY2OC04YmQ3LTAwMGJkYzY5MTg1MSJ9)
+  **Explore Full Project:**  [Student Performance & Analysis Tracker](https://app.powerbi.com/view?r=eyJrIjoiMzNiYjA4NjUtMzNlMy00ODM2LTlkM2UtNTIzYzRjNTdmMjNhIiwidCI6IjY3ZmM3MmU2LTIxMjctNDY2OC04YmQ3LTAwMGJkYzY5MTg1MSJ9)
 
 ### 1) Screenshots (Preview)
   a) Top Achievers Dashboard <p align="center">
