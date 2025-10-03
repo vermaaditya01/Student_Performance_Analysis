@@ -1,4 +1,4 @@
-# Power-BI-Portfolio
+
 ## EduMind Metrics ~ Student Performance & Analysis Tracker
 A comprehensive data visualization project developed to uncover how academics, health & lifestyle factors shape student success, offering a holistic view of scores, attendance, habits & well-being across different courses and universities.
 
