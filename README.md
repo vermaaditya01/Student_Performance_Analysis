@@ -6,7 +6,7 @@ A comprehensive data visualization project developed to uncover how academics, h
 
 ### 1) Screenshots (Preview)
   a) Top Achievers Dashboard <p align="center">
-  <img src="https://github.com/vermaaditya01/Power-BI-Portfolio/blob/main/Project%20Snapshots/Top%20Achievers.png" />
+  <img src= "https://github.com/vermaaditya01/Student_Performance_Analysis/blob/main/Project%20Snapshots/Top%20Achievers.png" />
 </p>
 
   b) Student Metrics Dashboard <p align="center">
