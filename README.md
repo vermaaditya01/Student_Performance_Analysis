@@ -10,7 +10,7 @@ A comprehensive data visualization project developed to uncover how academics, h
 </p>
 
   b) Student Metrics Dashboard <p align="center">
-  <img src="https://github.com/vermaaditya01/Power-BI-Portfolio/blob/main/Project%20Snapshots/Student%20Metrices.png" />
+  <img src= "https://github.com/vermaaditya01/Student_Performance_Analysis/blob/main/Project%20Snapshots/Student%20Metrices.png" />
 </p>
 
   c) Health Stats Dashboard <p align="center">
