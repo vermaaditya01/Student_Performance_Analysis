@@ -88,7 +88,26 @@ Following features have designed to make the dashboard interactive & insightful:
 
   - **Bar Chart (Affected Students by Motivation Levels):** Displays the proportion of students with high, moderate & low motivation levels.
 
-### 7) Use Case
+### 7) Challenges Faced 
+Overcoming these challenges provided valuable learning experiences and helped strengthen both data handling and analytical skills:-
+
+**a) Data Cleaning Issues** 🚧
+  - The datasets contained incorrect data types for many fields in different tables such as Batch in student_demographics table, Activity_hrs, Work_hrs, social_media_hrs, Sleep_hrs in in student_habits table. These were assigned with applicable data formats like INT, TEXT etc..
+    
+  - Existence of irrelevant columns like Involvement, Parent_id, D_id in tables like family_info, student_habits respectively, could slow down the performance. They were removed during data cleaning process.
+  
+  - Encountered significant missing values and inconsistencies within the dataset and resolved them through various imputation and replacement strategies, ensuring data quality and reliability.
+
+**b) Statistical calculation complications** 🚧
+  - The dataset structure, with separate columns for yearly scores, made dynamic average score calculation challenging. This was efficiently handled using advanced DAX expressions leveraging SWITCH and SELECTEDVALUE functions.
+  
+  - Encountered complexity in creating detailed KPI's for top performing students while creating "Top Achievers" dashboard page. This was resolved using Var & return Dax method to ensure dynamic interactions.
+  
+  - Faced difficulty in creating two-in one donut chart for Part-time Workers & Screen-Time Categories on "Student Metrics" page. To resolve this advanced parameter slicer functionality was used to enable auto value switching during selections based on the parameter.
+  
+  - Difficulties faced during calculations to find out most common disorder among all the disorders, had to formulate a complex function containing CALCULATE, FIRSTNONBLANK, TOPN, SUMMARIZE & COUNTROWS to resolve the issue.
+    
+### 8) Use Case
 By consolidating diverse datasets into interactive dashboards, this project empowers stakeholders to make data-driven decisions that enhance desicion making process for:
   - **Universities & Colleges →** Track academic success and improve student support systems.
 
